@@ -1,7 +1,6 @@
-
-title: My Resume # your title
+title: My CV # your title
 url: 'https://pensive-clarke-446137.netlify.app'
-baseurl: '/online-cv' #change it according to your repository name
+baseurl: '/' #change it according to your repository name
 
 
 
